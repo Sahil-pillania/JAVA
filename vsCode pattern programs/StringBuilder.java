@@ -19,4 +19,11 @@ public class StringBuilder {
 
     }
 
+    private char[] charAt(int i) {
+        return null;
+    }
+
+    private void insert(int i, char c) {
+    }
+
 }
